@@ -4,10 +4,14 @@ author: "Jummy David"
 date: "September 14, 2018"
 output:
   github_document:
+  pdf_document:
+    toc: yes
+  html_document:
+    keep_md: yes
     theme: cerulean
     toc: yes
 ---
-   keep_md: yes
+
 # Description: 
 
 The dataset is the study of five rabbits on two different occasions, after treatment with saline (control) and after treatment with the 5-HT_3 antagonist MDL 72222. Doses of phenylbiguanide were injected intravenously at 10 minute intervals in ascending order for each control and MDL. The change in blood pressure of the $5$ rabbits were measured. Variables are described from the [Source](https://stat.ethz.ch/R-manual/R-devel/library/MASS/html/Rabbit.html) as
