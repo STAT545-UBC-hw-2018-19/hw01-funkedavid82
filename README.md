@@ -54,5 +54,5 @@ barplot(table(sample(1:3, size=1000, replace=TRUE, prob=c(.30,.60,.10))), xlab="
 ```
 ##To-Dos
 - [x] Edit the README
-- [ ] Work on gapminder dataset
+- [x] Work on Rabbit dataset
 - [ ] git push
