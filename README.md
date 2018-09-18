@@ -24,6 +24,8 @@ output:
 ## About me
 My name is *Jummy David*, a PhD student in [Interdisciplinary studies](http://isgp.ubc.ca/) at [UBC](https://www.ubc.ca/). I hold a Bachelor of Technology degree in Mathematics and Master of Science degree in Applied Mathematics.
 
+[My Photo](jummy1.jpg)
+
 ## My Research
   My research interests are in mathematical epidemiology, which includes:
   
