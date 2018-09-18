@@ -3,8 +3,9 @@ title: "Data Exploration of blood pressure in Rabbits"
 author: "Jummy David"
 date: "September 14, 2018"
 output:
+  github_document:
+    toc: yes
   html_document:
-    keep_md: yes
     theme: cerulean
     toc: yes
   pdf_document:
