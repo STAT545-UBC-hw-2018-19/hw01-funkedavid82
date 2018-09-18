@@ -4,7 +4,7 @@ author: "Jummy David"
 date: "September 14, 2018"
 output:
   html_document:
-    #keep_md: yes
+    keep_md: yes
     theme: cerulean
     toc: yes
   pdf_document:
