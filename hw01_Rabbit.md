@@ -4,6 +4,10 @@ author: "Jummy David"
 date: "September 14, 2018"
 output:
   github_document:
+  pdf_document:
+    toc: yes
+  html_document:
+    keep_md: yes
     theme: cerulean
     toc: yes
 ---
