@@ -18,7 +18,7 @@ output:
 |   **Documents**   | **Description** |
 |----------------|------------|
 |[README.md](https://github.com/STAT545-UBC-students/hw01-funkedavid82/blob/master/README.md)|Readme.md file gives a brief description of all I have in the homework1 folder |
-|[hw01_Rabbit.md](https://github.com/STAT545-UBC-students/hw01-funkedavid82)      | Visualizing and exploring the gapminder dataset in R   |
+|[hw01_Rabbit.md](https://github.com/STAT545-UBC-students/hw01-funkedavid82/blob/master/hw01_Rabbit.md)      | Visualizing and exploring the gapminder dataset in R   |
 
 
 ## About me
